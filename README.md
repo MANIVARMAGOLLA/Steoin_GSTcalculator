@@ -72,7 +72,7 @@ LR05| EXIT| IMPLEMENTED
 
 
 # Badges
-
+!(code quality score)[https://www.code-inspector.com/project/28147/score/svg]
  
 
 
