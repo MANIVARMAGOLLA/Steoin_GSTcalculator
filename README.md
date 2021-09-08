@@ -76,6 +76,7 @@ LR05| EXIT| IMPLEMENTED
 ![code quality score](https://www.code-inspector.com/project/28147/score/svg)
 [![Code Quality - Static Code - Cppcheck](https://github.com/MANIVARMAGOLLA/Steoin_GSTcalculator/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/MANIVARMAGOLLA/Steoin_GSTcalculator/actions/workflows/cppcheck.yml)
 [![Contribution Check - Git Inspector](https://github.com/MANIVARMAGOLLA/Steoin_GSTcalculator/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/MANIVARMAGOLLA/Steoin_GSTcalculator/actions/workflows/gitinspector.yml)
+[![Unit Testing - Unity](https://github.com/MANIVARMAGOLLA/Steoin_GSTcalculator/actions/workflows/unity.yml/badge.svg)](https://github.com/MANIVARMAGOLLA/Steoin_GSTcalculator/actions/workflows/unity.yml)
 
 ## Folder Structure
 
