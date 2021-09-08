@@ -74,18 +74,6 @@ LR05| EXIT| IMPLEMENTED
 # Badges
 ![code grade](https://www.code-inspector.com/project/28147/status/svg)
 ![code quality score](https://www.code-inspector.com/project/28147/score/svg)
- 
-
-
-
-
-# SDLC Activity Based Learning
-
-Visit [Pages for Report -optional](using github.io option)
-
-| Build                                                                                                                                                                       | Code Quality                                                                                                                                                                                                                                                                                                                                                                                             | Unity                                                                                                                                                                                   | [Git Inspector](using github.io option)                                                                                                                                                        |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![C/C++ CI](https://github.com/Zualahmed/LTTS-C-project/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Zualahmed/LTTS-C-project/actions/workflows/c-cpp.yml) | [![Static Cppcheck](https://github.com/Zualahmed/LTTS-C-project/actions/workflows/cppcheck.yml/badge.svg)![code_quality_score](https://www.code-inspector.com/project/25122/score/svg)](https://github.com/Zualahmed/LTTS-C-project/actions/workflows/cppcheck.yml) | [![Unity - Unit Testing](https://github.com/Zualahmed/LTTS-C-project/actions/workflows/unity.yml/badge.svg)](https://github.com/Zualahmed/LTTS-C-project/actions/workflows/unity.yml) | [![Git Inspector](https://github.com/Zualahmed/LTTS-C-project/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Zualahmed/LTTS-C-project/actions/workflows/gitinspector.yml) |
 
 ## Folder Structure
 
